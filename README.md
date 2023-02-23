@@ -8,7 +8,7 @@ Laravel 9 - AdminKit Blank Page and AdminLTE Login - Bootstrap 5 Admin Template
 ----
 ### Descargar 
 #### **Laravel 9 + AdminKit and AdminLTE - Bootstrap Admin Template**
-Clonar repositorio  `$ git clone https://github.com/jmpm259/laravel-adminkit.git`
+Clonar repositorio  `$ git clone https://github.com/Cristianrg23/laravel9-adminkit3.git`
 
 ### Instalación
 **Instalar Laravel** `$ composer install`
