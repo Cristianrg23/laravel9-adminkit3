@@ -11,7 +11,9 @@ Laravel 9 - AdminKit Blank Page and AdminLTE Login - Bootstrap 5 Admin Template
 Clonar repositorio  `$ git clone https://github.com/Cristianrg23/laravel9-adminkit3.git`
 
 ### Instalación
-**Instalar Laravel** `$ composer install`
+**Instalar Laravel** 
+`$ composer install`
+`$ composer update`
 
 Copiar archivo .env `$ cp .env.example .env`
 
@@ -22,6 +24,15 @@ Generar nueva key `$ php artisan key:generate`
 Ejecutar vite para generar los archivos CSS y JS
 
 `$ npm run build`  o `$ npm run dev`
+
+**Instalar yarn**    
+`npm install --global yarn`    
+`yarn`    
+`yarn dev`    
+
+**Para Bootstrap ultima version**    
+`yarn remove bootstrap`    
+`yarn add bootstrap --dev`    
 
 Configurar las credenciales de tu DB,  ejecutar las migraciones y los seeder.
 
